@@ -1,0 +1,24 @@
+{
+  "name": "hw28-ruslana",
+  "version": "1.0.0",
+  "description": "Создайте на вашем github репозиторий по следующему шаблону HW#-name. Все результаты нужно запушить в ваш репозиторий и прикрепить ссылку на hillel портале. Создайте README.md с описанием задания. Покрыть тестами следующий код https://gist.github.com/OlegRovenskyi/cf61a735a9368fd8a83d88796d096b32 Добавить комманду для формировани coverage report",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruslana-P/HW28-Ruslana.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruslana-P/HW28-Ruslana/issues"
+  },
+  "homepage": "https://github.com/Ruslana-P/HW28-Ruslana#readme",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.18.6",
+    "jest": "^28.1.3"
+  }
+}
